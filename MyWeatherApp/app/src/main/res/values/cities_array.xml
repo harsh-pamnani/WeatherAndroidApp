@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Author - Harsh Pamnani - B00802614
+    Created on 18 March 2019
+    -->
+
+<resources>
+    <string-array name="cities">
+        <item>Halifax</item>
+        <item>Bhavnagar</item>
+        <item>Amreli</item>
+        <item>Bhuj</item>
+        <item>Truro</item>
+        <item>Yarmouth</item>
+        <item>Lunenberg</item>
+        <item>Wolfville</item>
+        <item>Dartmouth</item>
+        <item>Digby</item>
+        <item>Rajkot</item>
+        <item>London</item>
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Vadodara</item>
+        <item>Chennai</item>
+        <item>Kolkata</item>
+        <item>Bhopal</item>
+        <item>Hyderabad</item>
+        <item>Bangalore</item>
+        <item>Chandigarh</item>
+        <item>Montreal</item>
+        <item>Ottawa</item>
+        <item>Vancouver</item>
+        <item>Indore</item>
+        <item>Toronto</item>
+        <item>Saskatoon</item>
+        <item>Victoria</item>
+        <item>Hamilton</item>
+        <item>Calgary</item>
+        <item>Winnipeg</item>
+        <item>Edmonton</item>
+        <item>San Francisco</item>
+        <item>Los Angeles</item>
+        <item>Boston</item>
+        <item>Seattle</item>
+        <item>Regina</item>
+        <item>Guelph</item>
+        <item>Windsor</item>
+        <item>Mississauga</item>
+        <item>Thunder Bay</item>
+        <item>Austin</item>
+        <item>Chicago</item>
+        <item>Denver</item>
+        <item>Houston</item>
+        <item>San Diego</item>
+        <item>Dallas</item>
+        <item>San Antonio</item>
+        <item>San Jose</item>
+        <item>Las Vegas</item>
+        <item>Detroit</item>
+        <item>Paris</item>
+        <item>Sydney</item>
+        <item>Perth</item>
+        <item>Canberra</item>
+    </string-array>
+</resources>

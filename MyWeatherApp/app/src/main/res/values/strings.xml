@@ -1,0 +1,31 @@
+<!-- Author - Harsh Pamnani - B00802614
+    Created on 18 March 2019
+    -->
+
+<resources>
+    <string name="app_name">City Weather App</string>
+    <string name="api_key">cf225fe20ad01f6b21279d6ce21eebf4</string>
+    <string name="find_weather">Get Weather \u0020</string>
+    <string name="enter_a_city_name_eg_halifax">Enter a city name (eg: Halifax)</string>
+    <string name="city_name">City Name</string>
+    <string name="toast_no_city">Please enter city name!</string>
+    <string name="toast_invalid_city">Please enter valid city name!</string>
+    <string name="no_internet_connection">Please check your internet connection and try again</string>
+    <string name="degree_celcius_symbol">°C</string>
+    <string name="min_temp">Min. \u0020</string>
+    <string name="max_temp">Max. \u0020</string>
+    <string name="humidity">Humidity \u0020</string>
+    <string name="clouds">Clouds \u0020</string>
+    <string name="percentage_symbol">%</string>
+    <string name="response_tag_main">main</string>
+    <string name="response_tag_temp">temp</string>
+    <string name="response_tag_temp_min">temp_min</string>
+    <string name="response_tag_temp_max">temp_max</string>
+    <string name="response_tag_humidity">humidity</string>
+    <string name="response_tag_clouds">clouds</string>
+    <string name="response_tag_all">all</string>
+    <string name="response_tag_sys">sys</string>
+    <string name="response_tag_country">country</string>
+    <string name="response_tag_weather">weather</string>
+    <string name="response_tag_description">description</string>
+</resources>
